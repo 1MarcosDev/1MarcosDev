@@ -4,7 +4,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=1MarcosDev&show_icons=true&theme=dracula&count_private=true)
 
-##  Linguagens que eu adoro
+##  Linguagens que eu uso
 
 <div style="display: inline_block">
 	<img align="center" alt="Nim" src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white"/>
